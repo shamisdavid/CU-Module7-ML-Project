@@ -112,11 +112,10 @@ The poor performance of Linear Regression led to trying Random Forest Regression
 
 ### Repository Structure
 
-- CapstonePart1/: Jupyter Notebook with full EDA analysis for Module 20.l, Part 1 of the Capstone. Also includes README.
-- CapstonePart2/: Updated Jupyter Notebook with full EDA analysis and ML application for Module 24.1, Part 2 of the Capstone.
+- CU_Boulder_Module7_SupervisedLearning.ipynb: Jupyter Notebook with full EDA analysis and ML.
 - Images/: Folder containing images of generated plots.
 - Data/: Folder containing the dataset.
-- README.md: This updated document summarizing the analysis using Notebook from Part 2.
+- README.md: Full EDA
 
 ### Sources
 
